@@ -3,7 +3,7 @@ A repository containing my submissions for the evaluation test for prospective G
 
 I am applying for the project **Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment**.
 
-**Note**- Use [NBViewer](https://nbviewer.org/) to view the jupyter notebooks, as Jupyter notebook cell outputs are not rendered on GitHub. Or clone the repository to local for viewing Jupyter notebook cell outputs.
+**Note**- Use [NBViewer](https://nbviewer.org/) to view the jupyter notebooks, as Jupyter notebook cell outputs are not rendered on GitHub. Or clone the repository to local for viewing Jupyter notebook cell outputs. Or view the PDF files, corresponding to task notebooks.
 
 ## Task 1: Electron/photon classification
 
