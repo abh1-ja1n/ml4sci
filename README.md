@@ -73,6 +73,11 @@ I have used [Vision Transformer](https://keras.io/examples/vision/image_classifi
 | 0.806               | 0.782                 |                      0.777 |
 
 
+## Resulting Performance for Task 1 and Task 3
+
+In Task 1 implementation using CNN, the validation loss and AUC score was fluctuating for the Tensorflow implementation model. In Task 3 implementation using Vision Transformer, the validation loss decreased in proportion to the training loss upto validation loss of 0.56, corresponding to validation AUC score of 0.78. I have used `categorical_crossentropy` loss function. 
+
+
 
 
 
